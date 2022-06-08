@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         
         imageView.image = #imageLiteral(resourceName: "ball4")
     }
-    
+
     @IBAction func askButtonPressed(_ sender: UIButton) {
         
         
